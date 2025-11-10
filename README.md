@@ -22,7 +22,7 @@
 
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zksekrwl1)](https://solved.ac/zksekrwl1)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zksekrwl1)](https://solved.ac/profile/zksekrwl1)
 
 <br>
 
