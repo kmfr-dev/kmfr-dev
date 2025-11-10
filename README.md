@@ -1,9 +1,10 @@
-# About Me
-
-
-<hr>
-
-<h3 align="left">Languages</h3>
+# :monocle_face: About Me
+<ul>
+  <li>🌱 I’m currently Studying Game Programming.</li>
+  <li>Learning Unreal Engine.</li>
+</ul>
+<br>
+<h3 align="left">:globe_with_meridians: Languages</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
@@ -13,7 +14,7 @@
 
 <h3 align="left">🛠 Tools</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/SVN-809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
@@ -24,7 +25,7 @@
 
 <br>
 
-<h3 align="left">Profile Cards</h3>
+<h3 align="left">🚩 Profile Cards</h3>
 
 <table>
   <tr> 
