@@ -19,9 +19,10 @@
 <div align="left">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+  <a href="https://solved.ac/zksekrwl1">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zksekrwl1" />
+  </a>
 </div>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zksekrwl1)](https://solved.ac/zksekrwl1)
 
 <br>
 
