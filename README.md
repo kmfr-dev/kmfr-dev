@@ -19,7 +19,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj={zksekrwl1}](https://solved.ac/{zksekrwl1})" />&nbsp
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 </div>
 
 <br>
