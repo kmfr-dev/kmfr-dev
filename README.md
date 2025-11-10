@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 
 </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zksekrwl1)](https://solved.ac/zksekrwl1)(http://mazassumnida.wtf/api/generate_badge?boj=zksekrwl1)](https://solved.ac/zksekrwl1)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zksekrwl1)](https://solved.ac/zksekrwl1)
 
 <br>
 
