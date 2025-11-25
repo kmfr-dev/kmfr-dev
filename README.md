@@ -1,7 +1,7 @@
 # :monocle_face: About Me
 <ul>
   <li>🌱 I’m currently Studying Game Programming.</li>
-  <li>Learning Unreal Engine.</li>
+  <li>I'm Learning Unreal Engine.</li>
 </ul>
 <br>
 <h3 align="left">:globe_with_meridians: Languages</h3>
